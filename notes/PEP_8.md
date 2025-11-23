@@ -8,4 +8,7 @@ LINE_LENGTH ---
 BLANK_LINES ---
 - to group parts of your program visually use blank lines
 
+CONDITIONALS ---
+- use a space for comparison operators, example : if age > 4
+
 FUTURE PEP_8 I WILL INCLUDE WHEN NECESSARY --- 
