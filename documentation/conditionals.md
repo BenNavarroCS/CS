@@ -1,3 +1,4 @@
 - != --- not equal to
 - <= and >= --- less than or equal to and greater than or equal to
-
+- and --- combines conditionals
+- or --- if one term is true then True
