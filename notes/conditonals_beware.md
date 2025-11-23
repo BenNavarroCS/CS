@@ -1,1 +1,2 @@
-
+- if multiple if statements are desired to run one after the other even if they are true, do not indent
+- you check if a list is empty as it could be causing problems, if list:
