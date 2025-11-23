@@ -1,1 +1,2 @@
 - dict[key] = value --- adds another key and value pair to the dictionary, you can also swap values for a key this way
+- del dict[key] --- completely removes a kay and value pair from a dict
