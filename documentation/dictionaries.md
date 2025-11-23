@@ -1,1 +1,1 @@
-
+- dict[key] = value --- adds another key and value pair to the dictionary
