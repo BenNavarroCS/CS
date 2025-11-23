@@ -1,1 +1,1 @@
-index error happens when you call an item in your list that does not exist at that index
+- index error happens when you call an item in your list that does not exist at that index
