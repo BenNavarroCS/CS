@@ -1,3 +1,4 @@
 - dict[key] = value --- adds another key and value pair to the dictionary, you can also swap values for a key this way
 - del dict[key] --- completely removes a kay and value pair from a dict
 - .get() --- used when a key in a dict might not exist, does not raise a KeyError
+- for key, value in dict.items(): --- loops through key and value pair and in this example assigns the key to key and value to value and prints for each key and value pair
