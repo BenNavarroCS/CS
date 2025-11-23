@@ -4,3 +4,4 @@
 - or --- if one term is true then True
 - in and not in --- checks if a value is or isn't in a list
 - else and elif
+- if multiple if statements are wanted to run, don't indent
