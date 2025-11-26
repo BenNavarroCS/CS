@@ -5,3 +5,4 @@
 - for key in dict.keys(): --- loops but for keys only, the same output is achieved with for keys in dict:
 - for value in set(dict.values()) --- loops values and set() causes duplication to not happen ie if a value appears twice it is only outputed once
 - a set can be made like this set = {1, 4, 4, 4, 4} here it would return only 1 and 4
+- list = [dict_1, dict_2] --- you can nest dicts in lists of lists in dicts by assigning their variable
