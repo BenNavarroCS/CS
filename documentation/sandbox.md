@@ -4,3 +4,4 @@
 - A list comprehension such as squares = [value**2 for value in range(1,11)] combines a list and for loop and automatically
   appends each new item
 - for item in items[:3]: --- a for loop can be combined with a slice
+- the modulo operator (%) tells you the ramainder only, of a division
