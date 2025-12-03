@@ -1,0 +1,2 @@
+- break, continue break or continue loop
+- you should loop for a list with a for loop like while list: --- the loop will run while list is not empty, do not use a for loop to change a list
