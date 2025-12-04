@@ -2,5 +2,5 @@
 - functions should have an explanation like this """explanation that can span multiple lines"""
 - def function(parametre= 1, parametre) function(parametre, parametre= 2) --- this is called a keyword argument, order does not change the code. Also we used a default value, the first parametre will be set to dog unless changed
 - parametre = "" --- creates an optional argument, can be paired with conditionals
-- a dict can exist in a function
+- a dict can exist in a function, so can any form of loop
   
