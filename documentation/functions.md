@@ -1,1 +1,3 @@
 - def function(parameter, parameter, parameter) --- positional argument, when called the code will work deifferently depending on the order of arguments given
+- functions should have an explanation like this """explanation that can span multiple lines"""
+- def function(parametre, parametre) function(parametre= 1, parametre= 2) --- this is called a keyword argument, order does not change the code
