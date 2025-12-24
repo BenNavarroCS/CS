@@ -1,6 +1,0 @@
-- != --- not equal to
-- <= and >= --- less than or equal to and greater than or equal to
-- and --- combines conditionals
-- or --- if one term is true then True
-- in and not in --- checks if a value is or isn't in a list
-- else and elif
