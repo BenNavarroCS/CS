@@ -1,1 +1,0 @@
-- if a while loop must have multiple if statements, use a variable to check the conditions so the while loop needs only check if the flag is true

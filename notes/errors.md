@@ -1,2 +1,0 @@
-- index error happens when you call an item in your list that does not exist at that index
-- key error happens when the key called is not in the dict
