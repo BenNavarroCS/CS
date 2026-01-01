@@ -1,7 +1,5 @@
 # CS
-My computer science pilgrimage
-
-All my progress and projects in CS, my passion in real-time
+All my progress and projects in CS
 
 What I record:
 - projects I have completed
